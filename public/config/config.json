@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x9116534729c838b76cfd2c38ab60db081b372c5e",
+  "SCAN_LINK": "https://etherscan.io/address/0x9116534729c838b76cfd2c38ab60db081b372c5e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Yes Bear",
+  "SYMBOL": "YB",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 205000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/yesbear",
+  "SHOW_BACKGROUND": false,
+  "DEEPLINK": "https://metamask.app.link/dapp/yesbear.xyz/"
+}
